@@ -6,7 +6,7 @@ Installation
 ------------
 ::
 
-    pip3 install https://github.com/Justin Ian Scott/volapi/archive/master.zip
+    pip3 install volapi
 
 Examples
 --------
