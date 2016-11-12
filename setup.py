@@ -36,11 +36,10 @@ setup(
     version=find_version('volapi/volapi.py'),
     description='RESTful API for Volafile.io',
     long_description=open('README.rst', 'r').read(),
-    url='https://github.com/Justin Ian Scott/volapi',
+    url='https://github.com/spencinator/volapi',
     license='GPLv3',
     author='Justin Ian Scott',
-    author_email='dolosthegreat@safe-mail.net',
-    test_suite="test_volapi.TestVolapi",
+    author_email='justinspencer@tfwno.gf',
     packages=['volapi'],
     include_package_data=True,
     classifiers=[
